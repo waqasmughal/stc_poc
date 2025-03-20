@@ -1,0 +1,12 @@
+{
+  "name": "finance_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
